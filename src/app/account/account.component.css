@@ -1,0 +1,26 @@
+.row{
+	padding: 30px 26px;
+	background: #22313f;
+	border-bottom: 1px solid #34495e;
+	width:auto;
+}
+.userImg{
+	/*border-radius: 50%;*/
+	border: 1px solid #eeeeee;
+	margin-left: auto;
+	margin-right: auto;
+	height: 50px;
+	width: 50px;
+	background: white;
+}
+
+.userInfo{
+	font-size: 12px;
+	margin-left: 14px;
+	margin-top: 4px;
+	color: #eeeeee;
+}
+
+p, h5{
+	margin-bottom: 0;
+}

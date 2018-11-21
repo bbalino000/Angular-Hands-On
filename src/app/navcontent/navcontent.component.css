@@ -1,0 +1,27 @@
+.row{
+	padding-left: 3%;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+ul > li{
+	display: inline-block;
+	padding: 0 20px 0 0;
+}
+
+ul > li > a{
+	text-decoration: none;
+	color: #bdc3c7;
+}
+
+ul > li > a:hover{
+	color: black;
+}
+
+ul > li > a.active{
+	text-decoration: none;
+	color: black;
+}

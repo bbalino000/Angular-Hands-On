@@ -1,0 +1,26 @@
+th, td{
+	padding: 8px 10px;
+}
+
+table{
+	font-size:13px;
+	border-bottom: 1px solid #eeeeee;
+}
+
+*{
+	font-size: 14px;
+}
+
+button{
+	margin-right: 10px;
+	width: 100px;
+	border-radius: 1px;
+}
+
+.section{
+	text-align: right;
+}
+
+.pagination > li > a{
+	color: black;
+}

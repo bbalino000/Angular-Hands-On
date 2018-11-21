@@ -1,0 +1,24 @@
+.row {
+	border-bottom: 1px solid #ececec;
+}
+
+i{
+	cursor: pointer;
+	color: #2e3131;
+}
+
+.col-11{
+	text-align: right;
+}
+
+.col-11 > ul > li {
+	list-style-type : none;
+	display: inline-block;
+	font-size: 26px;
+	padding: 11px 10px;
+}
+
+.col-11 > ul {
+	margin: 0;
+	padding: 0;
+}

@@ -1,0 +1,32 @@
+nav {
+	width: 100%;
+	margin-top: 40px;
+}
+nav > a {
+	text-decoration: none;
+	color: #2e3131;
+	padding-left: 26px;
+	color: #6c7a89;
+	border-left: 4px solid white;
+
+}
+nav > a:hover{
+	color: #2e3131;
+	border-left: 4px solid #d2d7d3;
+}
+
+nav > a.active{
+	color: #2e3131;
+	font-weight: 500;
+	border-left: 4px solid #2e3131;
+}
+
+i{
+	float: right;
+	padding: 7px 11px;
+	border-radius: 50%;
+}
+
+i:hover{
+	background: #eeeeee;
+}
